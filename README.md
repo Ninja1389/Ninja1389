@@ -1,5 +1,5 @@
 # Ninja
-**Full Stack Developer from Italy :flag_it:**
+**Full Stack Developer from Italy**
 Building scalable web applications with clean code and modern technologies.
 
 ## About
