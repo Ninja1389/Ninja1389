@@ -3,12 +3,15 @@
 Building scalable web applications with clean code and modern technologies.
 
 ## About
+```javascript
 const developer = {
   name: "Ninja",
   location: "Italy",
   role: "Junior Developer",
   focus: "Web Development"
 };
+```
+
 
 
 ## Tech Stack
